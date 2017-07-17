@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/bg_home_action_bar"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main_activity_bottom_container_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/home_bottombar_height"
+        android:layout_alignParentBottom="true"
+        android:background="@color/main_bottombar_bg_color"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:translationZ="@dimen/nomor_translation_z">
+
+        <LinearLayout
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:id="@+id/main_activity_bottom_home_button_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/main_activity_bottom_home_button_image"
+                android:layout_width="@dimen/home_bottombar_icons_height"
+                android:layout_height="@dimen/home_bottombar_icons_height"
+                android:scaleType="fitXY"
+                android:src="@drawable/icon_main_bottom_home" />
+
+            <TextView
+                android:id="@+id/main_activity_bottom_home_button_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/main_bottom_home"
+                android:textSize="@dimen/homt_bottombar_textsize" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:id="@+id/main_activity_bottom_rank_button_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/main_activity_rank_home_button_image"
+                android:layout_width="@dimen/home_bottombar_icons_height"
+                android:layout_height="@dimen/home_bottombar_icons_height"
+                android:scaleType="fitXY"
+                android:src="@drawable/icon_main_bottom_paihang" />
+
+            <TextView
+                android:id="@+id/main_activity_bottom_rank_button_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/main_bottom_paohang"
+                android:textSize="@dimen/homt_bottombar_textsize" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:id="@+id/main_activity_bottom_paike_button_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/main_activity_bottom_paike_button_image"
+                android:layout_width="@dimen/home_bottombar_icons_height"
+                android:layout_height="@dimen/home_bottombar_icons_height"
+                android:scaleType="fitXY"
+                android:src="@drawable/icon_main_bottom_paike" />
+
+            <TextView
+                android:id="@+id/main_activity_bottom_paike_button_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/main_bottom_paike"
+                android:textSize="@dimen/homt_bottombar_textsize" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:id="@+id/main_activity_bottom_my_button_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/main_activity_bottom_my_button_image"
+                android:layout_width="@dimen/home_bottombar_icons_height"
+                android:layout_height="@dimen/home_bottombar_icons_height"
+                android:scaleType="fitXY"
+                android:src="@drawable/icon_main_bottom_me" />
+
+            <TextView
+                android:id="@+id/main_activity_bottom_my_button_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/main_bottom_my"
+                android:textSize="@dimen/homt_bottombar_textsize" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:id="@+id/main_activity_bottom_release_button_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/home_bottombar_addview_iconheight"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:translationZ="@dimen/nomor_translation_z">
+
+        <ImageView
+            android:id="@+id/main_activity_bottom_release_button_image"
+            android:layout_width="@dimen/home_bottombar_icons_addvideo_width"
+            android:layout_height="@dimen/home_bottombar_icons_addvideo_width"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_main_bottom_addvideo" />
+
+        <TextView
+            android:id="@+id/main_activity_bottom_release_button_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_bottom_fabu"
+            android:textSize="@dimen/homt_bottombar_textsize" />
+    </LinearLayout>
+
+    <com.beauty.youvideo.widget.MyViewPage
+        android:id="@+id/main_activity_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.beauty.youvideo.widget.MyViewPage>
+</RelativeLayout>

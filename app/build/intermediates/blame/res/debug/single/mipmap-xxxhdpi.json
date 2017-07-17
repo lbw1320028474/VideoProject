@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidStudioSpace\\YouVideo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "F:\\AndroidStudioSpace\\YouVideo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

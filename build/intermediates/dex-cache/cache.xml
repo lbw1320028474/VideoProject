@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3f03adaa6f35980eb7f580fb56e134ca3d2e83e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d3745b1f40353cb41e9cda34669f60afa13e49b1">
+        <dex dex="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24913b8834c6142f096821c0261e45e48fe5c0bc\classes.dex" />
+    </item>
+
+</items>

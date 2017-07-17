@@ -1,0 +1,7 @@
+#Mon Jul 17 23:15:28 CST 2017
+base.0=F\:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3f03adaa6f35980eb7f580fb56e134ca3d2e83e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24913b8834c6142f096821c0261e45e48fe5c0bc\\classes.dex
+base.1=F\:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24913b8834c6142f096821c0261e45e48fe5c0bc
+file.0=F\:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3f03adaa6f35980eb7f580fb56e134ca3d2e83e\\classes.dex
