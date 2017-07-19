@@ -1,95 +1,99 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:4:5-83
+	android:name
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\90a6613078eae92a2fe5679053f488ab95698d31\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\b09bf321454ce513af4cd5b17cdd9ba2dd025421\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\2ece4816b5a307df3efb491019aba113626d0877\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\e822aae5e00583213e36cd61854310acbde01e2f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\061993228de9ca67dc36701f6c960075a1bcfb4e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\da439691f601a635b17988aab95db90bf1dd28a4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7b47fd59cbe02718135224b073ebbf944a711c75\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\e8b933f49cc2e66afc84474549c5fbdf57929bb6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\794c61371aeeff6d69e8b7ac8d8efe6d02a3e815\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\7a2e6e814db02eaa58388c1c6a94ae1139831c55\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\8f96d4547c84df744718bcf80b450c574b1b5343\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\d48fd512af2f68faef5e6b1671e9050941b5574f\output\AndroidManifest.xml:9:5-20
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bangwen.lei\.android\build-cache\a22d68b55c4f714cd3e2b5b1e5d0cd4902c179f0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bangwen.lei\.android\build-cache\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6c47de3e9d29b977605efb8f1300df83e17d822\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bangwen.lei\.android\build-cache\9424424bcfad4c15c9db34d857f999cd617216ea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bangwen.lei\.android\build-cache\4b6f50c0867a492aec6eff47a87fb9e0a64b4f79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bangwen.lei\.android\build-cache\a1255b61af073e59040740c00f835b9b3d334a94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bangwen.lei\.android\build-cache\78e0680dbaee282f57abd94a4960938d2131f2a0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bangwen.lei\.android\build-cache\032f424fc353085dd88aae43547575ab7552923c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bangwen.lei\.android\build-cache\e82dab12decc6a4c6180cf8fc02158d62e675ac6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bangwen.lei\.android\build-cache\62e9d897cdda6f1c5aa5b7c30805df4c0f1565b1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bangwen.lei\.android\build-cache\959e1e19939ba9cf7b93920fc993a413490344f9\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.beauty.youvideo.activity.MainActivity
-ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.beauty.youvideo.Activity.MainActivity
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:12:19-56
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:12:19-75
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:14:13-17:29
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\90a6613078eae92a2fe5679053f488ab95698d31\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\53dc21e6b2074dee9790b013ef4ff9556d6d02a1\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\b09bf321454ce513af4cd5b17cdd9ba2dd025421\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\2ece4816b5a307df3efb491019aba113626d0877\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\e822aae5e00583213e36cd61854310acbde01e2f\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\061993228de9ca67dc36701f6c960075a1bcfb4e\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\da439691f601a635b17988aab95db90bf1dd28a4\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7b47fd59cbe02718135224b073ebbf944a711c75\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\e8b933f49cc2e66afc84474549c5fbdf57929bb6\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\794c61371aeeff6d69e8b7ac8d8efe6d02a3e815\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\7a2e6e814db02eaa58388c1c6a94ae1139831c55\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\8f96d4547c84df744718bcf80b450c574b1b5343\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\d48fd512af2f68faef5e6b1671e9050941b5574f\output\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bangwen.lei\.android\build-cache\d8b95f90e6968ddd14ff268ca0e11d7a1a36dc94\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bangwen.lei\.android\build-cache\a22d68b55c4f714cd3e2b5b1e5d0cd4902c179f0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bangwen.lei\.android\build-cache\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6c47de3e9d29b977605efb8f1300df83e17d822\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bangwen.lei\.android\build-cache\9424424bcfad4c15c9db34d857f999cd617216ea\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bangwen.lei\.android\build-cache\4b6f50c0867a492aec6eff47a87fb9e0a64b4f79\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bangwen.lei\.android\build-cache\a1255b61af073e59040740c00f835b9b3d334a94\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bangwen.lei\.android\build-cache\78e0680dbaee282f57abd94a4960938d2131f2a0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bangwen.lei\.android\build-cache\032f424fc353085dd88aae43547575ab7552923c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bangwen.lei\.android\build-cache\e82dab12decc6a4c6180cf8fc02158d62e675ac6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bangwen.lei\.android\build-cache\62e9d897cdda6f1c5aa5b7c30805df4c0f1565b1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bangwen.lei\.android\build-cache\959e1e19939ba9cf7b93920fc993a413490344f9\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\90a6613078eae92a2fe5679053f488ab95698d31\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
-		INJECTED from F:\AndroidStudioSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSpace\YouVideo\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\90a6613078eae92a2fe5679053f488ab95698d31\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\53dc21e6b2074dee9790b013ef4ff9556d6d02a1\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\b09bf321454ce513af4cd5b17cdd9ba2dd025421\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\2ece4816b5a307df3efb491019aba113626d0877\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\e822aae5e00583213e36cd61854310acbde01e2f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\061993228de9ca67dc36701f6c960075a1bcfb4e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\da439691f601a635b17988aab95db90bf1dd28a4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\7b47fd59cbe02718135224b073ebbf944a711c75\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\e8b933f49cc2e66afc84474549c5fbdf57929bb6\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\794c61371aeeff6d69e8b7ac8d8efe6d02a3e815\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\7a2e6e814db02eaa58388c1c6a94ae1139831c55\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\8f96d4547c84df744718bcf80b450c574b1b5343\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bangwen.lei\.android\build-cache\d8b95f90e6968ddd14ff268ca0e11d7a1a36dc94\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bangwen.lei\.android\build-cache\a22d68b55c4f714cd3e2b5b1e5d0cd4902c179f0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bangwen.lei\.android\build-cache\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6c47de3e9d29b977605efb8f1300df83e17d822\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bangwen.lei\.android\build-cache\9424424bcfad4c15c9db34d857f999cd617216ea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bangwen.lei\.android\build-cache\4b6f50c0867a492aec6eff47a87fb9e0a64b4f79\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bangwen.lei\.android\build-cache\a1255b61af073e59040740c00f835b9b3d334a94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bangwen.lei\.android\build-cache\78e0680dbaee282f57abd94a4960938d2131f2a0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bangwen.lei\.android\build-cache\032f424fc353085dd88aae43547575ab7552923c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bangwen.lei\.android\build-cache\e82dab12decc6a4c6180cf8fc02158d62e675ac6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bangwen.lei\.android\build-cache\62e9d897cdda6f1c5aa5b7c30805df4c0f1565b1\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\90a6613078eae92a2fe5679053f488ab95698d31\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\90a6613078eae92a2fe5679053f488ab95698d31\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bangwen.lei\.android\build-cache\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\output\AndroidManifest.xml:26:9-47

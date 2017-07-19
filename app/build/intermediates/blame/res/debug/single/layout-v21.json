@@ -1,18 +1,18 @@
 [
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/unified_action_bar_root_view"
+    android:layout_width="match_parent"
+    android:translationZ="@dimen/nomor_translation_z"
+    android:background="@color/color_low_whilte"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/unified_action_bar_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:id="@+id/unified_action_bar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:id="@+id/unified_action_bar_height_adjust"
+            android:layout_width="1dp"
+            android:layout_height="0dp"></View>
+
+    </LinearLayout>
+
+</RelativeLayout>

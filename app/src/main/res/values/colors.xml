@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fa8420</color>
+    <color name="colorPrimaryDark">#fb7300</color>
+    <color name="colorAccent">#fa8420</color>
+    <color name="main_bottombar_bg_color">#f0ffffff</color>
+    <color name="main_bottombar_buttontext_selected_color">#fa8420</color>
+    <color name="main_bottombar_buttontext_normal_color">#666666</color>
+    <color name="color_low_whilte">#c5c5c5</color>
+    <color name="color_low_black">#666666</color>
+
+</resources>

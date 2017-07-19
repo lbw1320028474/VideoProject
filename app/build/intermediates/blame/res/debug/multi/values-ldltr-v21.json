@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "outputFile": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "file": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

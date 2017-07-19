@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

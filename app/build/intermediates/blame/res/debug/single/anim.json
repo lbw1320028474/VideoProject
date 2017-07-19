@@ -1,58 +1,58 @@
 [
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\anim\\design_fab_out.xml"
     }
 ]

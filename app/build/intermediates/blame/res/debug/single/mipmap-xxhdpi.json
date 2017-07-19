@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "F:\\AndroidStudioSpace\\YouVideo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\AndroidSpace\\YouVideo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
-        "source": "F:\\AndroidStudioSpace\\YouVideo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidSpace\\YouVideo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

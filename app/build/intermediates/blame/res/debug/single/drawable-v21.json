@@ -1,34 +1,34 @@
 [
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2ece4816b5a307df3efb491019aba113626d0877\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\b6b3dc2ff7822a35edf89f690b22f2b308c054b3\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "F:\\AndroidStudioSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\90a6613078eae92a2fe5679053f488ab95698d31\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "D:\\AndroidSpace\\YouVideo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\bangwen.lei\\.android\\build-cache\\c91a8c40b67275330d8c74fce4a758fc2d5fad4d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

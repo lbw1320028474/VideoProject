@@ -116,9 +116,11 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#fa8420</color>
+    <color name="colorPrimary">#fa8420</color>
+    <color name="colorPrimaryDark">#fb7300</color>
+    <color name="color_low_black">#666666</color>
+    <color name="color_low_whilte">#c5c5c5</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -688,6 +690,22 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="home_fragment_tabtext_allRank">总榜</string>
+    <string name="home_fragment_tabtext_car">汽车</string>
+    <string name="home_fragment_tabtext_cate">美食</string>
+    <string name="home_fragment_tabtext_fun">搞笑</string>
+    <string name="home_fragment_tabtext_knowledge">新知</string>
+    <string name="home_fragment_tabtext_live">生活</string>
+    <string name="home_fragment_tabtext_paikew">拍客</string>
+    <string name="home_fragment_tabtext_rank">排行</string>
+    <string name="home_fragment_tabtext_recommend">推荐</string>
+    <string name="home_fragment_tabtext_recreation">娱乐</string>
+    <string name="home_fragment_tabtext_society">社会</string>
+    <string name="home_fragment_tabtext_sports">体育</string>
+    <string name="home_fragment_tabtext_technology">科技</string>
+    <string name="home_fragment_tabtext_treasure">财富</string>
+    <string name="home_fragment_tabtext_weird">另类</string>
+    <string name="home_fragment_tabtext_world">世界</string>
     <string name="main_bottom_fabu">发布</string>
     <string name="main_bottom_home">首页</string>
     <string name="main_bottom_my">我的</string>
@@ -710,7 +728,6 @@
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

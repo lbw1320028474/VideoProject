@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--space size-->
+    <dimen name="home_bottombar_height">160px</dimen>
+    <dimen name="home_bottombar_addview_iconheight">80dp</dimen>
+    <dimen name="home_bottombar_icons_height">69px</dimen>
+    <dimen name="home_bottombar_icons_addvideo_width">50dp</dimen>
+
+    <!--text size-->
+    <dimen name="homt_bottombar_textsize">12sp</dimen>
+    <dimen name="nomor_translation_z">5dp</dimen>
+</resources>

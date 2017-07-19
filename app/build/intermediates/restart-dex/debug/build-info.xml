@@ -6,92 +6,80 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1500304526147"
-    token="-3188894700517928603"
+    timestamp="1500434457700"
+    token="-4774051829914862080"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="336" />
+        duration="194" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="28" />
+        duration="17" />
     <task
         name="verifier"
         duration="8" />
 
     <artifact
-        location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="F:\AndroidStudioSpace\YouVideo\app\build\outputs\apk\app-debug.apk"
+        location="D:\AndroidSpace\YouVideo\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1500301751655"
+        timestamp="1500434121846"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\outputs\apk\app-debug.apk"
+            location="D:\AndroidSpace\YouVideo\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1500304526147"
+        timestamp="1500434457700"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\AndroidSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="F:\AndroidStudioSpace\YouVideo\app\build\outputs\apk\app-debug.apk"
+            location="D:\AndroidSpace\YouVideo\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

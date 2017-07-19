@@ -3,21 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\AndroidSpace\YouVideo\app\libs\fastjson-1.1.23.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
-        <dex dex="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3f03adaa6f35980eb7f580fb56e134ca3d2e83e\classes.dex" />
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="D:\AndroidSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.1.23_0aace1c380d9b980161bbcbcba8b6d74ea7c0abd\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\AndroidSpace\YouVideo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="d3745b1f40353cb41e9cda34669f60afa13e49b1">
-        <dex dex="F:\AndroidStudioSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24913b8834c6142f096821c0261e45e48fe5c0bc\classes.dex" />
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_957c153917fcf61e5f69c69af8586ca3d7d4266c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSpace\YouVideo\app\libs\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="D:\AndroidSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.3_fa97be9107511f21374202bcbafd08b116e995d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSpace\YouVideo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3daca57ba3b85d29fe9cd22719c4f7b0a26fb403">
+        <dex dex="D:\AndroidSpace\YouVideo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dfca21e7e4b0e1b7651b6d323a5dd4cb209588b9\classes.dex" />
     </item>
 
 </items>
